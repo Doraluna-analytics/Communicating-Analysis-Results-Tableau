@@ -14,6 +14,6 @@ Evaluation criteria for Graded project:
 - Dashboard coloring adjusted to align with the company's branding or to individual preferences, and issues related to color blindness have been resolved.
 
 
-Visualising Data Using Tableau:
+# Visualising Data Using Tableau:
 
 https://public.tableau.com/app/profile/dora.luna/viz/Task2_17030159736100/Task1
